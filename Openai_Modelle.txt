@@ -1,5 +1,5 @@
 {
-    "write_model": "gpt-3.5-turbo",
+    "write_model": "gpt-3.5-turbo-1106",
     "review_model": "gpt-4-1106-preview",
     "rewrite_model": "gpt-4-1106-preview"
 }

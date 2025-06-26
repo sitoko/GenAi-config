@@ -1,5 +1,5 @@
 {
-    "write_model": "gpt-4o",
-    "review_model": "gpt-4o",
-    "rewrite_model": "gpt-4o"
+    "write_model": "gpt-4.1 mini",
+    "review_model": "gpt-4.1",
+    "rewrite_model": "gpt-4.1"
 }
